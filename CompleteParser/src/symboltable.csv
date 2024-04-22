@@ -1,0 +1,26 @@
+Name, Kind, Type, Line, Modifier, Scope
+Auto, Class, -, 2, Public, Global
+brand, Variable, String, 3, private, Auto
+fuelUsage, Variable, float, 4, private, Auto
+getFuelUsage, Method, float, 5, public, Auto
+main, Method, void, 5, public, Auto
+args, Variable, String[], 5, private, Auto.main
+autos, Variable, List<Auto>, 15, -, Auto.main
+bmw, Variable, Auto, 16, -, Auto.main
+"BMW", String-literal, String, 16, -, Auto.main
+10, Float-literal, float, 16, -, Auto.main
+vw, Variable, Auto, 17, -, Auto.main
+"Volkswagen", String-literal, String, 17, -, Auto.main
+6, Float-literal, float, 17, -, Auto.main
+porsche, Variable, Auto, 18, -, Auto.main
+"Porsche", String-literal, String, 18, -, Auto.main
+16, Float-literal, float, 18, -, Auto.main
+mercedes, Variable, Auto, 19, -, Auto.main
+"Mercedes - Benz", String-literal, String, 19, -, Auto.main
+14, Float-literal, float, 19, -, Auto.main
+tesla, Variable, Auto, 20, -, Auto.main
+"Tesla", String-literal, String, 20, -, Auto.main
+1, Float-literal, float, 20, -, Auto.main
+keyboard, Variable, Scanner, 29, -, Auto.main
+desiderEconomy, Variable, float, 30, -, Auto.main
+x, Variable, float, 32, -, Auto.main
